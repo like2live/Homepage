@@ -1,2 +1,2 @@
 # Homepage
-Make homepage great! Make it responsive, accessible, informative? credible, readable.
+Make homepage great! Make IT responsive, accessible, informative? credible, readable.
